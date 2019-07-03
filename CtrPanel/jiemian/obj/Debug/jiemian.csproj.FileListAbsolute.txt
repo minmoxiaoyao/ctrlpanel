@@ -1,0 +1,30 @@
+D:\visual stdio works\jiemian\jiemian\bin\Debug\jiemian.exe.config
+D:\visual stdio works\jiemian\jiemian\obj\Debug\jiemian.Properties.Resources.resources
+D:\visual stdio works\jiemian\jiemian\obj\Debug\jiemian.csproj.GenerateResource.Cache
+D:\visual stdio works\jiemian\jiemian\bin\Debug\jiemian.exe
+D:\visual stdio works\jiemian\jiemian\bin\Debug\jiemian.pdb
+D:\visual stdio works\jiemian\jiemian\obj\Debug\jiemian.exe
+D:\visual stdio works\jiemian\jiemian\obj\Debug\jiemian.pdb
+D:\visual stdio works\jiemian\jiemian\obj\Debug\jiemian.csprojResolveAssemblyReference.cache
+D:\visual stdio works\jiemian\jiemian\obj\Debug\jiemian.GetJogSpd.resources
+D:\visual studio works\jiemian\jiemian\bin\Debug\jiemian.exe.config
+D:\visual studio works\jiemian\jiemian\bin\Debug\jiemian.exe
+D:\visual studio works\jiemian\jiemian\bin\Debug\jiemian.pdb
+D:\visual studio works\jiemian\jiemian\obj\Debug\jiemian.csprojAssemblyReference.cache
+D:\visual studio works\jiemian\jiemian\obj\Debug\jiemian.GetJogSpd.resources
+D:\visual studio works\jiemian\jiemian\obj\Debug\jiemian.Properties.Resources.resources
+D:\visual studio works\jiemian\jiemian\obj\Debug\jiemian.csproj.GenerateResource.cache
+D:\visual studio works\jiemian\jiemian\obj\Debug\jiemian.csproj.CoreCompileInputs.cache
+D:\visual studio works\jiemian\jiemian\obj\Debug\jiemian.exe
+D:\visual studio works\jiemian\jiemian\obj\Debug\jiemian.pdb
+G:\扭振测控一体化\测控自动化调试\谐波一体化调试\jiemian\jiemian\bin\Debug\jiemian.exe.config
+G:\扭振测控一体化\测控自动化调试\谐波一体化调试\jiemian\jiemian\bin\Debug\jiemian.exe
+G:\扭振测控一体化\测控自动化调试\谐波一体化调试\jiemian\jiemian\bin\Debug\jiemian.pdb
+G:\扭振测控一体化\测控自动化调试\谐波一体化调试\jiemian\jiemian\obj\Debug\jiemian.csprojAssemblyReference.cache
+G:\扭振测控一体化\测控自动化调试\谐波一体化调试\jiemian\jiemian\obj\Debug\jiemian.Properties.Resources.resources
+G:\扭振测控一体化\测控自动化调试\谐波一体化调试\jiemian\jiemian\obj\Debug\jiemian.csproj.GenerateResource.cache
+G:\扭振测控一体化\测控自动化调试\谐波一体化调试\jiemian\jiemian\obj\Debug\jiemian.csproj.CoreCompileInputs.cache
+G:\扭振测控一体化\测控自动化调试\谐波一体化调试\jiemian\jiemian\obj\Debug\jiemian.exe
+G:\扭振测控一体化\测控自动化调试\谐波一体化调试\jiemian\jiemian\obj\Debug\jiemian.pdb
+G:\扭振测控一体化\测控自动化调试\谐波一体化调试\jiemian\jiemian\obj\Debug\jiemian.CtrPanel.resources
+G:\扭振测控一体化\测控自动化调试\谐波一体化调试\jiemian\jiemian\obj\Debug\TorsionalTest.CtrPanel.resources
